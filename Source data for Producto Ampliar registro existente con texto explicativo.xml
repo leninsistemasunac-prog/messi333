@@ -1,0 +1,1478 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>PROD_LONGTXT</Title>
+  <Author>EMNAVARRETE</Author>
+  <Keywords>Alcance estándar</Keywords>
+  <LastAuthor>Navarrete, Emiliano</LastAuthor>
+  <Created>2026-11-09T00:00:00Z</Created>
+  <LastSaved>2026-11-09T22:01:19Z</LastSaved>
+  <Company>EMNAVARRETE</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <APPLICATION dt:dt="string">SLO</APPLICATION>
+  <OBJECT_NAME dt:dt="string">Producto: Ampliar registro existente con texto explicativo</OBJECT_NAME>
+  <VERSION dt:dt="string">SAP S/4HANA 2025 - Alcance estándar - 09.11.2026</VERSION>
+  <SYSTEM dt:dt="string">DEV / 110</SYSTEM>
+  <LANGUAGE dt:dt="string">S</LANGUAGE>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <Colors>
+   <Color>
+    <Index>15</Index>
+    <RGB>#BFBFBF</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7130</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <TabRatio>648</TabRatio>
+  <ActiveSheet>3</ActiveSheet>
+  <FirstVisibleSheet>1</FirstVisibleSheet>
+  <MaxChange>0.0001</MaxChange>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625812320">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#427CAC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625812340">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625812360">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811904">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#427CAC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811924">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811944">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811964">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#427CAC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811984">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625812004">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811132">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#F0AB00" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811152">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625811172">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625829852">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFF4F9" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625830060">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFF4F9" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625831932">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFF4F9" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2565625823196">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFF4F9" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="20" ss:Color="#FFFFFF"
+    ss:Bold="1" ss:Italic="1"/>
+   <Interior ss:Color="#427CAC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#427CAC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#427CAC" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s99">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#F0AB00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+   <Protection ss:Protected="0"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFF4F9" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s104">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#EFF4F9" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Fields" ss:RefersTo="='Lista campos'!R1C1"/>
+  <NamedRange ss:Name="Instructions" ss:RefersTo="=Introducción!R1C1"/>
+ </Names>
+ <Worksheet ss:Name="Introducción" ss:Protected="1">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="81" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="14.5">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="19.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="14.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="19.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="671.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="14.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s63">
+    <Cell ss:MergeAcross="8"><Data ss:Type="String">Introducción a modelos de migración de datos</Data><NamedCell
+      ss:Name="Instructions"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:MergeAcross="8"><Data ss:Type="String">Version SAP S/4HANA 2025 - Alcance estándar - 09.11.2026 © Copyright SAP SE. All rights reserved.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:MergeAcross="4"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Resumen </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Las plantillas de migración (ficheros de hoja de cálculo de Microsoft Excel XML 2003) constan de diferentes hojas que están visibles al final de la plantilla de migración. Utilice diferentes hojas para especificar los datos que pertenecen a diferentes estructuras de datos. Por ejemplo, la plantilla de migración para el objeto de migración &quot;Producto&quot; contiene una hoja para datos básicos, una hoja para datos de centro, etc. Unas hojas son obligatorias y otras son opcionales. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">Una plantilla de migración se basa en la vista activa del objeto de migración relevante. Encontrará información sobre la vista activa en el archivo de Microsoft Excel (XML). En el fichero, vaya a Fichero -&gt; Info. Encontrará el nombre de la vista activa en  Propiedades -&gt; Etiquetas. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Requisitos previos </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">En la hoja de cálculo de Microsoft Excel XML 2003, vaya a Archivo -&gt; Opciones -&gt; Opciones avanzadas. En la opción &quot;Al calcular este libro de trabajo:&quot;, asegúrese de que se haya seleccionado la opción &quot;Fijar precisión como mostrada&quot;. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Información de tamaños de archivo </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">El límite del tamaño de archivo es de 100&#160;MB. Puede cargar varios archivos XML a la vez utilizando un archivo zip. Tenga en cuenta que el tamaño combinado de todos los archivos XML que va a añadir al archivo comprimido no debe superar los 160&#160;MB. El tamaño máximo permitido del archivo comprimido es de 100&#160;MB. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Puede incrementar el límite de tamaño para cada archivo XML cargado a 160MB modificando el parámetro de sistema (icm/HTTP/max_reques t_size_KB). El límite para el archivo comprimido aún es de 160MB con el parámetro de sistema. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Hoja &quot;Lista de campos&quot; </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">La hoja &quot;Lista de campos&quot; es una de las primeras hojas de la plantilla de migración. Además, puede utilizar dicha hoja para obtener un resumen de los datos previstos en una ubicación central. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Contiene información sobre las hojas obligatorias y opcionales, así como información detallada de cada hoja (por ejemplo, el tipo de datos previsto y la longitud para los campos en cada hoja). </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">En la hoja &quot;Lista de campos&quot; puede ver la información siguiente para cada campo de la plantilla de migración: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:Height="25">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">El nombre de la hoja y si es obligatoria u opcional. Solo las hojas obligatorias tienen el sufijo &quot;Obligatorio&quot;; por ejemplo, &quot;Datos básicos (obligatorios)&quot;. Todas las demás hojas son opcionales. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Nota: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Puede obtener rápidamente un resumen de las hojas obligatorias y opcionales mirando el color de los nombres de la hoja al final de la plantilla de migración. El nombre de las hojas obligatorias tiene el color naranja, mientras que las hojas opcionales tienen el color azul. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">El nombre del grupo para los campos en una hoja. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Los campos individuales en cada hoja, así como si los campos son obligatorios para una hoja. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Información sobre el formato previsto de los campos individuales, por ejemplo el tipo de datos y la longitud. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Puede obtener rápidamente un resumen de los campos obligatorios y opcionales observando el color de fondo de las celdas de cada hoja. Las celdas de los campos obligatorios tienen un color de fondo naranja, mientras que las celdas de los campos opcionales no tienen color de fondo. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> Nota: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">En la hoja &quot;Lista de campos&quot;, cierta información técnica de los campos está oculta por defecto. Las columnas &quot;Estructura SAP&quot; y &quot;Campo SAP&quot; (columnas 8 y 9) se ocultan por defecto. La columna &quot;Estructura SAP&quot; es el nombre técnico de la estructura a la que pertenece el campo. La columna &quot;Campo SAP&quot; es el nombre técnico del campo. Para mostrar esas columnas, seleccione las columnas adyacentes a lado y lado de las columnas que desea mostrar. Haga clic con el botón derecho sobre la selección y marque &quot;Mostrar&quot;. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Si desea extraer datos de SAP ERP, el nombre técnico de la estructura y el nombre técnico del campo suelen corresponder al nombre de la tabla y al nombre del campo de SAP ERP. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Trabajar con hojas </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Para cada plantilla de migración necesita especificar datos para las hojas obligatorias y para las hojas opcionales que son relevantes para su proyecto: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Hojas obligatorias (naranja) </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Las hojas obligatorias representan con conjunto de datos mínimo que debe proporcionar para la migración de datos. Rellene todos los campos obligatorios. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Hojas opcionales (azul) </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Utilice hojas opcionales en función de su alcance de migración y datos existentes disponibles. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">En cada hoja, las celdas de los campos obligatorios tienen un color de fondo naranja, mientras que las celdas de los campos opcionales no tienen color de fondo. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Visualizar información adicional para cada columna </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">En la fila 8 puede ver los nombres de campo en SAP S/4HANA, así como información adicional, como el formato previsto (por ejemplo el tipo de datos y la longitud). Tenga en cuenta que debe desplegar la fila para ver esta información adicional. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Unos campos son obligatorios y otros opcionales. El carácter comodín (*) al lado del nombre de un campo indica que el campo es obligatorio. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Nota: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Aunque una hoja opcional puede contener columnas obligatorias, si la hoja no es relevante para su proyecto, no es necesario rellenar las columnas obligatorias en la hoja con datos. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Nota: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Las filas 4, 5 y 6 están ocultas por defecto. La fila 4 es el nombre técnico de la estructura (corresponde al nombre de la hoja). La fila 5 es el nombre técnico del campo (corresponde a la fila 8, la descripción de campo). La fila 6 contiene información técnica como el tipo de datos y la longitud. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Para mostrar esas filas, seleccione las filas adyacentes a lado y lado de las filas que desea mostrar. Haga clic con el botón derecho sobre la selección y marque &quot;Mostrar&quot;. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Trabajar con diferentes tipos de datos </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Aunque una hoja opcional puede contener columnas obligatorias, si la hoja no es relevante para su proyecto, no es necesario rellenar las columnas obligatorias en la hoja con datos. Según el campo, puede ser necesario uno de los siguientes tipos de datos: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Texto </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Las letras, los números y los caracteres especiales están permitidos. En el cockpit de migración de SAP S/4HANA, puede asignar los valores de ciertos campos con el texto de tipo de datos (normalmente, los campos con Longitud:  80) a sus valores teóricos SAP S/4HANA correctos. Puede asignar valores en el cockpit de migración de SAP S/4HANA al empezar la transferencia (en el paso &quot;Convertir valores&quot;). </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Número </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="90">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Introduzca números con decimales en el formato específico de país relevantes, por ejemplo, 12.34 (Estados Unidos) o 12,34 (Alemania). Para los campos que tienen decimales, la longitud declarada incluye decimales (si procede); por ejemplo, si la información de la columna es la siguiente:  Longitud: 8, decimales: 3, entonces se permite un número como 12345.678. Tenga en cuenta que los decimales no son obligatorios. En este ejemplo puede especificar un entero con una longitud de hasta 8 sin decimales (por ejemplo, &quot;1&quot;). Este número se establecería como «1.000» internamente. Para números negativos, asegúrese de que un signo menos (&quot;-&quot;) preceda directamente al número, por ejemplo, &quot;-100&quot;. Tenga en cuenta que no se admiten las monedas con más de 3 decimales. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Tenga en cuenta que la longitud máxima de un campo que admite Microsoft Excel es de 15 dígitos (decimales incluidos). Si tiene cifras más largas, utilice la opción de transferir los datos a S/4HANA utilizando tablas de staging. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Fecha </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Introduzca la fecha en el formato específico de su país, por ejemplo, 12/31/1998 (Estados Unidos) o 31.12.1998 (Alemania). Tenga en cuenta que Microsoft Excel reconoce automáticamente diferentes formatos de fecha y los transforma automáticamente en el formato XML correcto. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Hora </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Introduzca la hora en el formato HH:MM:SS, por ejemplo, 02:52:40. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Copiar datos a una hoja </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Al copiar datos en una hoja de Microsoft Excel, haga siempre clic con el botón derecho en la celda relevante y seleccione la opción de pegar &quot;Valores (V)&quot;. Evite pegar datos que incluyan formato y fórmulas en la plantilla de migración, porque corromperán la estructura de la plantilla de migración XML. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Usar la función de buscar y reemplazar </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">No utilice la función de Microsoft Excel &quot;Buscar y reemplazar&quot;. Si modifica datos utilizando esta función, puede que también modifique de forma no intencionada los nombres de los campo y corrompa la estructura de la plantilla de migración. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Grabar la plantilla de migración </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Asegúrese de que solo graba las plantillas de migración como un fichero de hoja de cálculo Microsoft Excel 2003. Otros tipos de fichero no son compatibles con el cockpit de migración SAP S/4HANA. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">Información importante </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">No realizar ningún cambio en la estructura de la plantilla de migración, más concretamente: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No eliminar, renombrar o modificar el orden de ninguna hoja de la plantilla de migración. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No modificar el formato de ninguna celda. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No utilizar fórmulas. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">•</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">No ocultar, eliminar, o modificar el orden de ninguna de las columnas de la plantilla de migración. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Nota: </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">Cualquier modificación en las hojas tendrá como consecuencia una estructura XML corrupta. Tales plantillas de migración modificadas no son compatibles con el cockpit de migración SAP S/4HANA. </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String"> </Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <FitToPage/>
+   <Print>
+    <FitHeight>99</FitHeight>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>9</TabColorIndex>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>3</SplitHorizontal>
+   <TopRowBottomPane>3</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>True</ProtectObjects>
+   <ProtectScenarios>True</ProtectScenarios>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Lista campos" ss:Protected="1">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="30" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="14.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="67"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="88"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="172"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="135"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="82.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="56.5" ss:Span="1"/>
+   <Column ss:Index="9" ss:StyleID="s62" ss:Hidden="1" ss:AutoFitWidth="0"
+    ss:Width="56.5" ss:Span="1"/>
+   <Column ss:Index="11" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="14.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s63">
+    <Cell ss:MergeAcross="8"><Data ss:Type="String">Lista de campos para objeto de migración: Producto: Ampliar registro existente con texto explicativo</Data><NamedCell
+      ss:Name="Fields"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:MergeAcross="8"><Data ss:Type="String">Version SAP S/4HANA 2025 - Alcance estándar - 09.11.2026 © Copyright SAP SE. All rights reserved.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s74">
+    <Cell ss:Index="2" ss:MergeAcross="6"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s76"><Data ss:Type="String">Nombre de hoja</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Denominación grupo</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Descripción de campo</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Importancia</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Clase</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Long.</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Decimal</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Estructura SAP</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Campo SAP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="m2565625811132"><Data
+      ss:Type="String">Producto (obligatorio)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeDown="1" ss:StyleID="m2565625811152"/>
+    <Cell ss:MergeDown="1" ss:StyleID="m2565625811172"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Número de producto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MARA</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">PRODUCT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Identificación de ejecución</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">10    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MARA</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">RUN_ID</Data></Cell>
+   </Row>
+   <Row ss:Index="9" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="m2565625811904"><Data
+      ss:Type="String">Texto de producto</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeDown="4" ss:StyleID="m2565625811924"/>
+    <Cell ss:MergeDown="3" ss:StyleID="m2565625811944"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Número de producto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_PRODUCT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">PRODUCT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Identificación de ejecución</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">10    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_PRODUCT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">RUN_ID</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">ID de texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_PRODUCT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">TDID</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Código de idioma</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_PRODUCT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">TDSPRAS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ilimitado</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_PRODUCT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">LONGTEXT</Data></Cell>
+   </Row>
+   <Row ss:Index="16" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="m2565625811964"><Data
+      ss:Type="String">Textos de planificación</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeDown="4" ss:StyleID="m2565625811984"/>
+    <Cell ss:MergeDown="3" ss:StyleID="m2565625812004"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Número de producto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MDTXT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">PRODUCT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Identificación de ejecución</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">10    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MDTXT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">RUN_ID</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Centro</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MDTXT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">WERKS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">ID de texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MDTXT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">TDID</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ilimitado</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MDTXT</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">LONGTEXT</Data></Cell>
+   </Row>
+   <Row ss:Index="23" ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="m2565625812320"><Data
+      ss:Type="String">Texto de ventas</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeDown="6" ss:StyleID="m2565625812340"/>
+    <Cell ss:MergeDown="5" ss:StyleID="m2565625812360"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Número de producto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">PRODUCT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Identificación de ejecución</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">10    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">RUN_ID</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Organización de ventas</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">VKORG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Canal de distribución</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">VTWEG</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">ID de texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">TDID</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:StyleID="s84"><Data ss:Type="String">Código de idioma</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">80    </Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">TDSPRAS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">obligatorio para hoja</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Texto</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">ilimitado</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">LONGTEXT</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <FitToPage/>
+   <Print>
+    <FitHeight>99</FitHeight>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>9</TabColorIndex>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>4</SplitHorizontal>
+   <TopRowBottomPane>7</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>16</ActiveRow>
+     <RangeSelection>R17:R21</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>True</ProtectObjects>
+   <ProtectScenarios>True</ProtectScenarios>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Producto" ss:Protected="1">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s99" ss:Width="120" ss:Span="1"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s63">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Datos de origen para objeto de migración:  Producto: Ampliar registro existente con texto explicativo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Version SAP S/4HANA 2025 - Alcance estándar - 09.11.2026 © Copyright SAP SE. All rights reserved.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:MergeAcross="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">S_MARA</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">PRODUCT</Data></Cell>
+    <Cell><Data ss:Type="String">RUN_ID</Data></Cell>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;10;0;C;10;0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2565625829852"><Data ss:Type="String">Clave</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Número de producto*&#10;&#10;Una clave que identifica el producto de forma unívoca.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Identificación de ejecución*&#10;&#10;Debe utilizar el campo RUN_ID en la hoja &quot;Producto&quot; y en todas las hojas dependientes para ejecutar varias ampliaciones para la misma instancia. El campo RUN_ID es un campo clave adicional que le permite importar el mismo texto largo del producto más de una vez.&#10;Por ejemplo, en el primer producto de importación A con un nuevo texto explicativo de producto o texto explicativo de ventas, y en el segundo paso, el mismo producto A con otro texto explicativo de producto o texto explicativo de ventas. Puede distinguir las ampliaciones para la misma instancia por los diferentes ID de ejecución. En este escenario, debe asegurarse de que la migración para un ID de ejecución se ha completado antes de cargar los datos con otro ID de ejecución para la misma instancia.&#10;Consulte también la documentación del objeto.&#10;&#10;Clase: Texto&#10;Long.: 10</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>51</TabColorIndex>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>8</SplitHorizontal>
+   <TopRowBottomPane>8</TopRowBottomPane>
+   <SplitVertical>2</SplitVertical>
+   <LeftColumnRightPane>2</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Texto de producto" ss:Protected="1">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s99" ss:Width="120" ss:Span="4"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s63">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Datos de origen para objeto de migración:  Producto: Ampliar registro existente con texto explicativo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Version SAP S/4HANA 2025 - Alcance estándar - 09.11.2026 © Copyright SAP SE. All rights reserved.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:MergeAcross="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">S_PRODUCT</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">PRODUCT</Data></Cell>
+    <Cell><Data ss:Type="String">RUN_ID</Data></Cell>
+    <Cell><Data ss:Type="String">TDID</Data></Cell>
+    <Cell><Data ss:Type="String">TDSPRAS</Data></Cell>
+    <Cell><Data ss:Type="String">LONGTEXT</Data></Cell>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;10;0;C;10;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;0;0;g;0;0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2565625830060"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Texto</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61">
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Número de producto*&#10;&#10;Una clave que identifica el producto de forma unívoca.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Identificación de ejecución*&#10;&#10;Debe utilizar el campo RUN_ID en la hoja &quot;Producto&quot; y en todas las hojas dependientes para ejecutar varias ampliaciones para la misma instancia. El campo RUN_ID es un campo clave adicional que le permite importar el mismo texto largo del producto más de una vez.&#10;Por ejemplo, en el primer producto de importación A con un nuevo texto explicativo de producto o texto explicativo de ventas, y en el segundo paso, el mismo producto A con otro texto explicativo de producto o texto explicativo de ventas. Puede distinguir las ampliaciones para la misma instancia por los diferentes ID de ejecución. En este escenario, debe asegurarse de que la migración para un ID de ejecución se ha completado antes de cargar los datos con otro ID de ejecución para la misma instancia.&#10;Consulte también la documentación del objeto.&#10;&#10;Clase: Texto&#10;Long.: 10</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">ID de texto*&#10;&#10;El ID de texto define los varios tipos de textos relacionados con un objeto de texto. El objeto de texto MATERIAL tiene el siguiente ID de texto: BEST (texto de compras), GRUN (texto básico), IVER (nota interna) y PRUE (texto de inspección).&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Código de idioma*&#10;&#10;Indique el idioma del texto explicativo. Su valor fuente se convertirá en formato ISO.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Texto*&#10;&#10;Clase: Texto&#10;Long.: ilimitado</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>56</TabColorIndex>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>8</SplitHorizontal>
+   <TopRowBottomPane>8</TopRowBottomPane>
+   <SplitVertical>4</SplitVertical>
+   <LeftColumnRightPane>4</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>7</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Textos de planificación" ss:Protected="1">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s99" ss:Width="120" ss:Span="4"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s63">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Datos de origen para objeto de migración:  Producto: Ampliar registro existente con texto explicativo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Version SAP S/4HANA 2025 - Alcance estándar - 09.11.2026 © Copyright SAP SE. All rights reserved.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:MergeAcross="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">S_MDTXT</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">PRODUCT</Data></Cell>
+    <Cell><Data ss:Type="String">RUN_ID</Data></Cell>
+    <Cell><Data ss:Type="String">WERKS</Data></Cell>
+    <Cell><Data ss:Type="String">TDID</Data></Cell>
+    <Cell><Data ss:Type="String">LONGTEXT</Data></Cell>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;10;0;C;10;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;0;0;g;0;0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m2565625831932"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Texto</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="37">
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Número de producto*&#10;&#10;Una clave que identifica el producto de forma unívoca.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Identificación de ejecución*&#10;&#10;Debe utilizar el campo RUN_ID en la hoja &quot;Producto&quot; y en todas las hojas dependientes para ejecutar varias ampliaciones para la misma instancia. El campo RUN_ID es un campo clave adicional que le permite importar el mismo texto largo del producto más de una vez.&#10;Por ejemplo, en el primer producto de importación A con un nuevo texto explicativo de producto o texto explicativo de ventas, y en el segundo paso, el mismo producto A con otro texto explicativo de producto o texto explicativo de ventas. Puede distinguir las ampliaciones para la misma instancia por los diferentes ID de ejecución. En este escenario, debe asegurarse de que la migración para un ID de ejecución se ha completado antes de cargar los datos con otro ID de ejecución para la misma instancia.&#10;Consulte también la documentación del objeto.&#10;&#10;Clase: Texto&#10;Long.: 10</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Centro*&#10;&#10;Key uniquely identifying a plant.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">ID de texto*&#10;&#10;El ID de texto define los varios tipos de textos relacionados con un objeto de texto. El objeto de texto 'MDTXT' tiene el siguiente ID de texto: LTXT (texto de planificación de necesidades)&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Texto*&#10;&#10;Clase: Texto&#10;Long.: ilimitado</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="37"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>56</TabColorIndex>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>8</SplitHorizontal>
+   <TopRowBottomPane>8</TopRowBottomPane>
+   <SplitVertical>4</SplitVertical>
+   <LeftColumnRightPane>4</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>0</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Texto de ventas" ss:Protected="1">
+  <Table ss:ExpandedColumnCount="15" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s99" ss:Width="120" ss:Span="6"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30" ss:StyleID="s63">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Datos de origen para objeto de migración:  Producto: Ampliar registro existente con texto explicativo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s65">
+    <Cell ss:MergeAcross="14"><Data ss:Type="String">Version SAP S/4HANA 2025 - Alcance estándar - 09.11.2026 © Copyright SAP SE. All rights reserved.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:MergeAcross="14" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">S_MVKE</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">PRODUCT</Data></Cell>
+    <Cell><Data ss:Type="String">RUN_ID</Data></Cell>
+    <Cell><Data ss:Type="String">VKORG</Data></Cell>
+    <Cell><Data ss:Type="String">VTWEG</Data></Cell>
+    <Cell><Data ss:Type="String">TDID</Data></Cell>
+    <Cell><Data ss:Type="String">TDSPRAS</Data></Cell>
+    <Cell><Data ss:Type="String">LONGTEXT</Data></Cell>
+   </Row>
+   <Row ss:Height="14.5">
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;10;0;C;10;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;80;0;C;80;0</Data></Cell>
+    <Cell><Data ss:Type="String">ETE;0;0;g;0;0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="5" ss:StyleID="m2565625823196"><Data ss:Type="String">Clave</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Texto</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Número de producto*&#10;&#10;Una clave que identifica el producto de forma unívoca.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Identificación de ejecución*&#10;&#10;Debe utilizar el campo RUN_ID en la hoja &quot;Producto&quot; y en todas las hojas dependientes para ejecutar varias ampliaciones para la misma instancia. El campo RUN_ID es un campo clave adicional que le permite importar el mismo texto largo del producto más de una vez.&#10;Por ejemplo, en el primer producto de importación A con un nuevo texto explicativo de producto o texto explicativo de ventas, y en el segundo paso, el mismo producto A con otro texto explicativo de producto o texto explicativo de ventas. Puede distinguir las ampliaciones para la misma instancia por los diferentes ID de ejecución. En este escenario, debe asegurarse de que la migración para un ID de ejecución se ha completado antes de cargar los datos con otro ID de ejecución para la misma instancia.&#10;Consulte también la documentación del objeto.&#10;&#10;Clase: Texto&#10;Long.: 10</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Organización de ventas*&#10;&#10;Una unidad organizativa responsable de la venta de ciertos productos o servicios. La responsabilidad de una organización de ventas puede incluir responsabilidades legales para productos y reclamaciones de clientes.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Canal de distribución*&#10;&#10;La manera en qué los productos o servicios llegan al cliente. Ejemplos habituales de canales de distribución son venta mayorista, venta minorista y venta directa.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">ID de texto*&#10;&#10;El ID de texto define los varios tipos de textos relacionados con un objeto de texto. El objeto de texto &quot;MVKE&quot; tiene el siguiente ID de texto: 0001 (texto comercial)&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Código de idioma*&#10;&#10;Indique el idioma del texto explicativo. Su valor fuente se convertirá en formato ISO.&#10;&#10;Clase: Texto&#10;Long.: 80</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Texto*&#10;&#10;Clase: Texto&#10;Long.: ilimitado</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>56</TabColorIndex>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>8</SplitHorizontal>
+   <TopRowBottomPane>8</TopRowBottomPane>
+   <SplitVertical>6</SplitVertical>
+   <LeftColumnRightPane>6</LeftColumnRightPane>
+   <ActivePane>0</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+    <Pane>
+     <Number>0</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>0</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <AllowSizeCols/>
+   <AllowSizeRows/>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
